@@ -27,7 +27,8 @@
   width: 500px;
   margin: 0 auto 0;
 }
-.task, .task-input {
+.task,
+.task-input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -39,10 +40,13 @@
   margin: 0;
   padding: 0px;
 }
-.task-item, .tasks-title {
+.task-item,
+.tasks-title {
   list-style: none;
 }
-.task-checkbox,.task-input,.button{
+.task-checkbox,
+.task-input,
+.button{
   outline: none;
 }
 .button {
