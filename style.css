@@ -42,7 +42,7 @@
 .task-item, .tasks-title {
   list-style: none;
 }
-input,button{
+.task-checkbox,.task-input,.button{
   outline: none;
 }
 .button {
